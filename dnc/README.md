@@ -8,7 +8,7 @@ Closest Pair - https://www.youtube.com/watch?v=Xwf1rnqWiKo&list=PLii-CvAgf-8g1b0
 
 ## Problem for practice
 
-=======================
+___
 [Chemical Reactant](https://programming.in.th/task/rev2_problem.php?pid=1050) - binary search
 ###### IDEA[EASY] IMPLEMENTATION[MEDIUM]
 
