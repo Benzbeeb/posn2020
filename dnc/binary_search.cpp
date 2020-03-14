@@ -7,7 +7,7 @@ using namespace std ;
 const int MAXN = 10;
 
 
-bool find(vector<int> v, int key){
+bool find(vector<int> &v, int key){
 
     int first = 0 , last = v.size()-1;
 
