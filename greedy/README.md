@@ -6,10 +6,10 @@
 
 ___
 [Fire](https://programming.in.th/task/rev2_problem.php?pid=1152) - ยากหน่อย แต่ดี
-IDEA[HARD] IMPLEMENTATION[MEDIUM]
+###### IDEA[HARD] IMPLEMENTATION[MEDIUM]
 
 [nbk38](https://www.proprog.ml/tasks/toi14_nbk48/descs/14198?fbclid=IwAR1iWqx_qsciy7h4UfbaVmD-OX4Y8B3ER50qOHDBu1EsoFCcSQm0FZovVLs) - ง่าย
-IDEA[EZ] IMPLEMENTATION[EZ]
+###### IDEA[EZ] IMPLEMENTATION[EZ]
 
 [CONTEST](https://vjudge.net/contest/362275?fbclid=IwAR3NJTPMYq-rs2fe0I3kDmv6rbftLF1D660UsWJyM7SQsbqSgV3BPUNACQ8)
-password: covid19
+###### password: covid19
