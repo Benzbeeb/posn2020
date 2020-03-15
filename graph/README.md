@@ -11,6 +11,8 @@
 [worker](https://www.codecube.in.th/task/184?fbclid=IwAR2oQxeKIpoZE3SKe2piRfJpdNSfyh8XzIcKQx20X54x1P0TOyXIv51rW_4)
 ### ez MST
 
+[Maximum Distance](https://codeforces.com/problemset/problem/1081/D)
+### not ez MST
 ___
 
 
