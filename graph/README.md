@@ -22,6 +22,7 @@
 
 [Lazanta](https://www.codecube.in.th/task/184?fbclid=IwAR2oQxeKIpoZE3SKe2piRfJpdNSfyh8XzIcKQx20X54x1P0TOyXIv51rW_4)
 
+[Logistic](https://www.proprog.ml/tasks/toi14_logistic/descs/14202)
 ___
 
 
